@@ -1,10 +1,9 @@
 # Ficha técnica del libro
 
-|---|---|
-| **Título**   |  Doy Fe... Un año de actuación en la España nacionalista.  |
-| **Autor**  |  Antonio Ruiz Vilaplana |
-| **Edición**  |  Segunda Edición (~1937?) |
-| **Editorial**  | Ediciones Imprimerie Coopérative Étoile, Paris |
+- **Título**: Doy Fe... Un año de actuación en la España nacionalista
+- **Autor**: Antonio Ruiz Vilaplana
+- **Edición**: Segunda Edición (~1937?)
+- **Editorial**: Ediciones Imprimerie Coopérative Étoile, Paris
 
 # Notas
 
